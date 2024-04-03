@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Strava Flyby Athlete Avatar Anonymizer
 // @namespace    https://github.com/marvk/strava-flyby-athlete-avatar-anonymizer
-// @version      2024-03-07
+// @version      1.0.0
 // @description  Blank out athlete avatars from Strava Flybys
 // @author       marvk
 // @match        https://labs.strava.com/flyby/viewer/
